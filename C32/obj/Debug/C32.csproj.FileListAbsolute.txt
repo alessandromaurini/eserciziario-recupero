@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\C32\bin\Debug\C32.exe.config
+C:\Users\Utente\Desktop\C32\bin\Debug\C32.exe
+C:\Users\Utente\Desktop\C32\bin\Debug\C32.pdb
+C:\Users\Utente\Desktop\C32\obj\Debug\C32.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\C32\obj\Debug\C32.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\C32\obj\Debug\C32.exe
+C:\Users\Utente\Desktop\C32\obj\Debug\C32.pdb
+C:\Users\Utente\Desktop\C32\obj\Debug\C32.exe.config
