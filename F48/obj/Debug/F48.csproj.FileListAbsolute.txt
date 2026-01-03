@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\F48\bin\Debug\F48.exe.config
+C:\Users\Utente\Desktop\F48\bin\Debug\F48.exe
+C:\Users\Utente\Desktop\F48\bin\Debug\F48.pdb
+C:\Users\Utente\Desktop\F48\obj\Debug\F48.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\F48\obj\Debug\F48.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\F48\obj\Debug\F48.exe
+C:\Users\Utente\Desktop\F48\obj\Debug\F48.pdb
+C:\Users\Utente\Desktop\F48\obj\Debug\F48.exe.config
