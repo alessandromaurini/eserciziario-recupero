@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\C2\bin\Debug\C2.exe.config
+C:\Users\Utente\Desktop\C2\bin\Debug\C2.exe
+C:\Users\Utente\Desktop\C2\bin\Debug\C2.pdb
+C:\Users\Utente\Desktop\C2\obj\Debug\C2.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\C2\obj\Debug\C2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\C2\obj\Debug\C2.exe
+C:\Users\Utente\Desktop\C2\obj\Debug\C2.pdb
+C:\Users\Utente\Desktop\C2\obj\Debug\C2.exe.config
